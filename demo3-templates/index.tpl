@@ -1,0 +1,1 @@
+hello from template by "${machine_name}"
